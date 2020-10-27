@@ -1,2 +1,1 @@
-#   Trabalhando-com-tabelas
-MySQL
+#  Trabalhando-com-tabelas
